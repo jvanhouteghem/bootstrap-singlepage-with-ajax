@@ -1,0 +1,19 @@
+.ui-widget-content{
+	width: 675px !important;
+}
+
+.dialog{
+	/*display:none;*/
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: 0;
+    position: relative;
+}
+
+.ui-widget-header {
+    border: 0px !important;
+    background: white !important;
+    color: #222;
+    font-weight: bold;
+}
