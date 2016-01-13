@@ -34,7 +34,7 @@
 			</a>
 
 			<div class="carousel-caption hidden-xs">
-				<h1>Quoala naturellement pervert.</h1>
+				<h1>Title</h1>
 			</div>
 		</div>			
 	</div>
